@@ -3,3 +3,5 @@ title
 status
 bugs
 improvements
+additional information
+comments
